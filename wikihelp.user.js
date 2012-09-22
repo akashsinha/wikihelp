@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name WikiHelp
-// @namespace http://sinhaakash.wordpress.com/wikihelp
+// @namespace http://github.com/akashsinha
 // @description show help text for wiki links
 // @include *.wikipedia.org/*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js
