@@ -1,7 +1,8 @@
-#### Free to use, but not to distribute
-#### Author: Akash Sinha 
-#### Email: akash2607@gmail.com
-### Version: 0.1 
+# Copyright: 2012
+# Author: Akash Sinha 
+# Email: akash2607@gmail.com
+# Version: 0.1 
+
 
 WikiHelp Grease MonkeyScript
 
