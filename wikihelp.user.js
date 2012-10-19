@@ -7,7 +7,6 @@
 
 
 function wikiHelp() {
-    var regex = /^[a-zA-Z0-9_)(-\/#]+$/i;
     var whXhr = null;
     var helpTime = null;
     var whWidth = 420;
@@ -15,9 +14,6 @@ function wikiHelp() {
     function showHelp(query) {
         var terms = query.split("/");
         var term = terms[terms.length - 1];
-        if (!term.match(regex)) {
-            return;
-        }
         document.getElementById("whOverlay")
             .style.display = "block";
         var whContent = document.getElementById("whContent");
